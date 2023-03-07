@@ -1,2 +1,2 @@
-# weapon-scripts
-Weapon scripts for Garry's Mod maps
+# ttt-weapon-scripts
+tona days' ttt weapon scripts for garry's mod maps
